@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏻
+I'm Uddhav Davey, a Final Year Computer Science and Engineering student with a passion for Artificial Intelligence and machine learning
+Explore my projects to see my work in computer vision, NLP, and more
+I'm dedicated to creating innovative solutions 
+
+
 
 <!--
 **Uddhav-24/Uddhav-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
