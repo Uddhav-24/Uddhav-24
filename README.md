@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-I'm Uddhav Davey, a Final Year Computer Science and Engineering student with a passion for Artificial Intelligence and Machine Learning
+I'm Uddhav Davey, a Final Year Computer Science and Engineering student with a passion for Artificial Intelligence and Machine Learning.
 Explore my projects to see my work in Machine Learning, Computer Vision, NLP, and more.
 I'm dedicated to creating innovative solutions that make a positive impact.
 
