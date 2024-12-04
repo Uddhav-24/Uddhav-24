@@ -2,8 +2,6 @@
 I'm a passionate CSE Engineer with a focus on Artificial Intelligence and Machine Learning.
 My projects showcase my skills in Python, machine learning frameworks, and computer vision. I'm always eager to learn and explore new technologies.
 
-Let's connect and build something great!
-
 Feel free to connect and collaborate!
 <div id="badges">
   <a href="https://www.linkedin.com/in/uddhav-davey-aa989b243/">
