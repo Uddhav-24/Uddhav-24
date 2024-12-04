@@ -1,7 +1,8 @@
 ### Hi there 👋🏻
-I'm Uddhav Davey, a Final Year Computer Science and Engineering student with a passion for Artificial Intelligence and Machine Learning.
-Explore my projects to see my work in Machine Learning, Computer Vision, NLP, and more.
-I'm dedicated to creating innovative solutions that make a positive impact.
+I'm a passionate CSE Engineer with a focus on Artificial Intelligence and Machine Learning.
+My projects showcase my skills in Python, machine learning frameworks, and computer vision. I'm always eager to learn and explore new technologies.
+
+Let's connect and build something great!
 
 Feel free to connect and collaborate!
 <div id="badges">
